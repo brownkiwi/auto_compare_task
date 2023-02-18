@@ -16,9 +16,10 @@ import javax.xml.ws.RequestWrapper;
 @Slf4j
 public class ReadExcel {
 
-    static String Path1 = "D:\\Users\\lsh\\Desktop\\test\\dmodel.xlsx";
-    static String Path2 = "D:\\Users\\lsh\\Desktop\\test\\zhongjianbiao.xlsx";
-    static String Path3 = "D:\\Users\\lsh\\Desktop\\test\\chayifenxi.xlsx";
+    static String Path1 = "D:\\Ideaworkspace\\auto_compare_task\\dmodel.xlsx";
+    static String Path2 = "D:\\Ideaworkspace\\auto_compare_task\\zhongjianbiao.xlsx";
+    static String Path3 = "D:\\Ideaworkspace\\auto_compare_task\\chayifenxi.xlsx";
+
 
     /**
      * 最简单的读

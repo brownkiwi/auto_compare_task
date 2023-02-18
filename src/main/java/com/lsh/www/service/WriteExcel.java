@@ -23,7 +23,7 @@ import java.util.*;
 
 public class WriteExcel {
 
-    static String Path = "D:\\Users\\lsh\\Desktop\\test\\";
+    static String Path = "D:\\Ideaworkspace\\auto_compare_task\\";
 
     /**
      * 最简单的写
